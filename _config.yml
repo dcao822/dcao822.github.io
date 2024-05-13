@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "CAO Ding / Personal web"
+title                    : "CAO Ding / Academic website"
 title_separator          : "-"
 name                     : &name "CAO Ding"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "s1.png"
   name             : "CAO Ding"
   pronouns         : # example: "she/her"  
-  bio              : "Microbiology/Terahertz"
+  bio              : "Junior researcher at Aerospace Information Research Institute"
   location         : "GuangZhou, China"
-  employer         : "AIR CAS"
+  employer         : "Chinese Academy of Sciences"
   uri              : # URL
   email            : "dcao822@foxmail.com" 
 
