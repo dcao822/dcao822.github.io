@@ -19,7 +19,13 @@ Patents:
 1. 程丝，**曹鼎**，专利号：ZL201611099139.1
 
 
-Posters:
+Conference Posters:
 =======
 1. 15th Pacific Polymer Conference, PS4-59, 2017.
 
+Awards and Honors:
+=======
+* 2018, Outstanding Undergraduate Graduation Thesis.  
+* 2016-2018, National Innovation and Entrepreneurship Training Program for undergraduate (No.201610285019Z).  
+* 2014-2015, Scholarship of Academic Excellence, Second Prize.  
+* 2014-2015, Outstanding Volunteer for being Teaching Assistant.  
