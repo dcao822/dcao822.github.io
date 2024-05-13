@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-* Hi! I am CAO Ding, a junior researcher at the GBA Branch of Aerospace Information Research Institute, Chinese Academy of Sciences.  
+* Hi! I am CAO Ding 曹鼎, a junior researcher at the GBA Branch of Aerospace Information Research Institute（广东大湾区空天信息研究院）, Chinese Academy of Sciences.  
 
 * I received my B.Eng. degree from Soochow University (mainland, China) at 2018. During my undergraduate studies in Soochow University, I joined the research group of [Professor CHENG Si](https://textile.suda.edu.cn/bf/3c/c6547a376636/page.htm) for 3 years and had a wonderful time with nanoparticles and thermochromic materials.  
 
