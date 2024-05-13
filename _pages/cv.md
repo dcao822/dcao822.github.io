@@ -21,5 +21,8 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Leader: [CHEN Xuequan](https://swenchchen.github.io/)
 
+Contact me
+======
+Email: dcao822@foxmail.com
 
   
