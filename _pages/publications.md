@@ -21,11 +21,14 @@ Patents:
 
 Conference Posters:
 =======
-1. 15th Pacific Polymer Conference, PS4-59, 2017.
+1. 2023 APS DFD meeting.
+2. 2022 9th World Congress of Biomechanics.
+3. 2017 15th Pacific Polymer Conference, PS4-59.
 
 Awards and Honors:
 =======
-* 2018, Outstanding Undergraduate Graduation Thesis.  
-* 2016-2018, National Innovation and Entrepreneurship Training Program for undergraduate (No.201610285019Z).  
+* 2019-2020, Excellent Teaching Assistant.  
+* 2018, **Outstanding Undergraduate Graduation Thesis**.  
+* 2016-2018, **National Innovation and Entrepreneurship Training Program for undergraduate (No.201610285019Z)**.  
 * 2014-2015, Scholarship of Academic Excellence, Second Prize.  
 * 2014-2015, Outstanding Volunteer for being Teaching Assistant.  
