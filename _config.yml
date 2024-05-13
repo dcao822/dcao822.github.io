@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie.png"
   name             : "CAO Ding"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "China Male"
   location         : "China"
-  employer         : "中国科学院 空天信息研究院 广东大湾区空天信息研究院"
+  employer         : "中国科学院\<br />空天信息研究院 <br />广东大湾区空天信息研究院"
   uri              : # URL
   email            : "dcao822@foxmail.com" 
 
