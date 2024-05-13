@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 About
 ======
 Hi! I am CAO Ding, a junior researcher at the GBA Branch of Aerospace Information Research Institute, Chinese Academy of Sciences. 
