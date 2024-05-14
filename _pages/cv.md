@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* May 2023 -- Now: Junior researcher
+* 2023.05 -- Now: Junior researcher
   * Aerospace Information Research Institute, Chinese Academy of Sciences.
   * Leader: [CHEN Xuequan](https://swenchchen.github.io/)
 
