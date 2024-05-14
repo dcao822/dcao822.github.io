@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Materials Science and Engineering, The Chinese University of Hong Kong, 2023
-* B.E. in Macromolecular Materials and Engineering, Soochow University, 2018
+* 2018-2023, Ph.D in Materials Science and Engineering, The Chinese University of Hong Kong.
+* 2014-2018, B.E. in Macromolecular Materials and Engineering, Soochow University.
 
 Work experience
 ======
 * May 2023 -- Now: Junior researcher
   * Aerospace Information Research Institute, Chinese Academy of Sciences.
-  * Duties includes: Updates and improvements to template
   * Leader: [CHEN Xuequan](https://swenchchen.github.io/)
 
 Contact me
